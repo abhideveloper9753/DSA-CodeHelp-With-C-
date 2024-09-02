@@ -294,6 +294,31 @@ CLASS HOMEWORK: 10
 ```bash
 
 CLASS NOTES: 11
+	1. Linear search
+	2. Binary search (MONOTONIC ARRAY)
+    	3. Time complexity of binary search
+    	4. Rules of binary search
+    	5. Find first occurrence of a number in sorted array
+    	6. Find last occurrence of a number in sorted array
+	7. Find total occurrence of a number in sorted array
+	8. Find missing element in sorted array (GFG)
+	9. Peak element/index in a mountain array (Leetcode-852)
+
+CLASS HOMEWORK: 11
+	1. Find pivot element (LeftSum equals to RightSum)(Leetcode-724)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 04 TOPIC: Searching and Sorting - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 12
+	1. Find pivot element index from sorted and rotated array
+	2. Search in a rotated and sorted array (Leetcode-33)
     	3. Sqrt of X (Leetcode-69)
 	4. Binary search in 2D array (Leetcode-74)
 
@@ -308,6 +333,7 @@ CLASS HOMEWORK: 12
   <summary>WEEK 04 TOPIC: Searching and Sorting - Level 3</summary>
 
 ```bash
+
 
 CLASS NOTES: 13
 	1. Divide two number using Binary search without using any / and % operator
@@ -352,6 +378,10 @@ CLASS HOMEWORK: 13
 ```bash
 
 CLASS NOTES: 14
+
+	✅CHAR ARRAYS
+	1. What is char array
+	2. ASCII CHARACTER CODE 256
     	3. Char array creation
 	4. Taking input in char array
 	5. Print and access char array
@@ -396,6 +426,7 @@ CLASS HOMEWORK: 14
   <summary>WEEK 05 TOPIC: Char Arrays and Strings - Level 2</summary>
 
 ```bash
+
 
 CLASS NOTES: 15
 	1. Remove All Adjacent Duplicates In String (Leetcode-1047)
