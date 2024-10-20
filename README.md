@@ -970,8 +970,8 @@ CLASS HOMEWORK: 34
 	9. Car Fleet I (Leetcode)
 	10. Car Fleet - II (Leetcode)
 	11. Simplify Path (Leetcode)
-	12. Max rectangle in Binary Matrix with all 1s
-	13. Daily Temperatures
+	12. Max rectangle in Binary Matrix with all 1s (Leetcode 85)
+	13. Daily Temperatures (Leetcode)
 	14. Remove K Digits
 	15. Minimum Add To Make Parentheses Valid
 	16. Longest Valid Parentheses
