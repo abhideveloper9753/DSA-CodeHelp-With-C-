@@ -972,11 +972,11 @@ CLASS HOMEWORK: 34
 	11. Simplify Path (Leetcode)
 	12. Max rectangle in Binary Matrix with all 1s (Leetcode 85)
 	13. Daily Temperatures (Leetcode)
-	14. Remove K Digits
-	15. Minimum Add To Make Parentheses Valid
-	16. Longest Valid Parentheses
-	17. Asteroid Collision
-	18. Design Browser History
+	14. Remove K Digits (Leetcode 402)
+	15. Minimum Add To Make Parentheses Valid (Leetcode 921)
+	16. Longest Valid Parentheses (Leetcode 32)
+	17. Asteroid Collision (Leetcode 735)
+	18. Design Browser History (Leetcode 1472)
 	19. Final Prices With a Special Discount in a Shop (Leetcode-1475)
 
 ```
