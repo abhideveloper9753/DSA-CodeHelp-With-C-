@@ -1024,16 +1024,16 @@ CLASS NOTES: 37
 	3. Sliding Window Maximum (Leetcode-239)
 
 HOMEWORK NOTES: 37
-	1. Implement Queue using Stack
-	2. Implement Stacks using Queue
+	1. Implement Queue using Stack (Leetcode 232)
+	2. Implement Stacks using Queue (Leetcode 225)
 	3. Implement "K" queues in an array
 	4. Sum of min/max element of all subarray of size "k"
-	5. Number of Recent Calls
+	5. Number of Recent Calls (Leetcode 933)
 	6. First Unique Character in a String
-	7. Number of People Aware of a Secret
+	7. Number of People Aware of a Secret (Leetcode 2327)
 	8. Maximum Sum Circular Subarray
-	9. Find the Winner of the Circular Game
-	10. Reveal Cards In Increasing Order
+	9. Find the Winner of the Circular Game (Leetcode 1823)
+	10. Reveal Cards In Increasing Order (Leetcode 950)
 	11. Product of the Last K Numbers
 	12. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 	13. Delivering Boxes from Storage to Ports
