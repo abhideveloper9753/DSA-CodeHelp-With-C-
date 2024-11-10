@@ -438,6 +438,36 @@ CLASS NOTES: 15
 CLASS HOMEWORK: 15
 	1. Remove All Adjacent Duplicates in String II (Leetcode-1209)
 	2. Minimum Time Difference (Leetcode-539)
+        3. Valid Anagram (Leetcode 242)
+        4. reverse only letter (leetcode 917)
+        5. Longest Common Prefix (Leetcode 14)
+        6. Reverse Vowels of a string (Leetcode 345)
+        7. Isomorphic Strings(Leetcode 205)
+        8. Group Anagrams (Leetcode 49)
+        9. Longest palindromic substring (Leetcode 5)
+        10. String to integer (Leetcode 8)
+        11. String compression (Leetcode 443)
+        12. Integer to Romanas (Leetcode 12)
+        13. Zig-Zig Conversion (Leetcode 6)
+        14. Largest Number (Leetcode 179)
+        15. Reorganise String (Leetcode 767)
+        16. Find the index of first occurence in a string (Leetcode 28)
+        17. Number of Laser Beams in a Bank (Leetcode 2125)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
 
