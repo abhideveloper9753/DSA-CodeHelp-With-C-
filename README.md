@@ -1134,21 +1134,21 @@ CLASS NOTES: 40
 	5. Boundary traversal of binary tree
 
 HOMEWORK NOTES: 40
-	1. FW to find diameter of binary tree
-	2. FW to find height balanced tree
-	3. Check two trees are identical
+	1. FW to find diameter of binary tree (leetcode 543)
+	2. FW to find height balanced tree (leetcode 110)
+	3. Check two trees are identical (leetcode 100)
 	4. Symmetric Tree (Mirror Subtrees)
 	5. Zig-zag traversal
 	6. Transform to sum tree
 	7. Diagonal Traversal
-	8. Vertical Traversal
-	9. K-Sum Paths
-	10. Morris Traversal
+	8. Vertical Traversal (leetcode 987)
+	9. K-Sum Paths (leetcode 437)
+	10. Morris Traversal (leetcode 94)
 	11. Flatten a binary tree into LinkedList
 	12. Sum of longest bloodline of tree
 	13. Maximum sum of non-adjacent nodes
 	14. Burning Tree
-	15. Find Duplicate Sumtrees
+	15. Find Duplicate Sumtrees (leetcode 652)
 	16. Left view of binary tree using level order traversal
 
 ```
@@ -1200,12 +1200,12 @@ CLASS NOTES: 43
 HOMEWORK NOTES: 43
 	1. Inorder Successor in BST
 	2. Inorder Predecessor in BST
-	3. Build BST using Preorder Traversal
+	3. Build BST using Preorder Traversal (leetcode 1008)
 	4. Brothers from Different roots
-	5. Convert BST to a Balanced BST
+	5. Convert BST to a Balanced BST (leetcode 1382)
 	6. Find the Median of BST
 	7. Check BST has Dead End
-	8. Count BST Nodes lying in a Range
+	8. Count BST Nodes lying in a Range (leetcode 938)
 	9. Flatten BST to Sorted LL
 	10. Replace elements with the least Greater elements to it Right
 	11. Valid BST from Preorder
@@ -1279,11 +1279,11 @@ CLASS NOTES: 47
 HOMEWORK NOTES: 47
 	1. Check If Binary Tree is Heap
 	2. Merge Two Binary Max Heap
-	3. K-Closest points to the origin
-	4. Get Biggest Three Rhombus Sums In A Grid
-	5. Minimum Difference in Sums After Removal of Elements
-	6. Minimum Number of Refueling Stops
-	7. Sliding Window Maximum
+	3. K-Closest points to the origin (leetcode 973)
+	4. Get Biggest Three Rhombus Sums In A Grid (leetcode 1878)
+	5. Minimum Difference in Sums After Removal of Elements (leetcode 2163)
+	6. Minimum Number of Refueling Stops (leetcode 871)
+	7. Sliding Window Maximum (leetcode 239)
 
 ```
 
@@ -1354,10 +1354,10 @@ HOMEWORK NOTES: 50
 	5. Largest Subarray with 0 Sum
 	6. Largest Subarray of 0’s and 1’s
 	7. Valid Anagram
-	8. Replace Words
-	9. Top K Frequent Words
-	10. Camelcase Matching
-	11. Palindrome Pairs
+	8. Replace Words (leetcode 648)
+	9. Top K Frequent Words (leetcode 692)
+	10. Camelcase Matching (leetcode 1023)
+	11. Palindrome Pairs (leetcode 336)
 
 ```
 
@@ -1469,33 +1469,33 @@ CLASS NOTES: 57
 CLASS ASSIGNMENTS:
 	1. Perfect Squares (Leetcode-279)
 	2. Minimum Cost for Tickets (Leetcode-983)
-	3. Minimum ASCII Delete Sum for 2 Strings Leetcode
-	4. Longest Palindromic SubString Leetcode
-	5. Distinct Subsequences Leetcode
-	6. Word Break Leetcode
-	7. Word Break-2 Leetcode
-	8. Unique BST-2 Leetcode
-	9. House Robber-3 Leetcode
+	3. Minimum ASCII Delete Sum for 2 Strings (Leetcode 712)
+	4. Longest Palindromic SubString (Leetcode 5)
+	5. Distinct Subsequences (Leetcode 115)
+	6. Word Break Leetcode 139
+	7. Word Break-2 Leetcode 140
+	8. Unique BST-2 Leetcode 95
+	9. House Robber-3 Leetcode 337
 	10. Unique BST-2 Leetcode
-	11. Stone Game
-	12. Stone Game-2
-	13. Stone Game-3
-	14. Burst balloons Leetcode
-	15. Interleaving Strings Leetcode
-	16. Minimum Insertion Steps to Make a String Palindrome
-	17. Russian Doll Envelopes Leetcode
-	18. Minimum Number of Removals to Make Mountain Array
-	19. Make Array Strictly Increasing
+	11. Stone Game (leetcode 877)
+	12. Stone Game-2 (leetcode 1140)
+	13. Stone Game-3 (leetcode 1406)
+	14. Burst balloons Leetcode 312
+	15. Interleaving Strings Leetcode 97
+	16. Minimum Insertion Steps to Make a String Palindrome (leetcode 1312)
+	17. Russian Doll Envelopes Leetcode 354
+	18. Minimum Number of Removals to Make Mountain Array (leetcode 1671)
+	19. Make Array Strictly Increasing (leetcode 1187)
 	20. Best Time To Buy & Sell Stock - Already Taught in Recursion Week
-	21. Best Time To Buy & Sell Stock-2
-	22. Best Time To Buy & Sell Stock-3
-	23. Best Time To Buy & Sell Stock-4
-	24. Best Time To Buy & Sell Stock-5
-	25. Target Sum Leetcode
-	26. Ones and Zeroes Leetcode
-	27. Minimum Swaps To Make Sequences Increasing
-	28. Reducing Dishes Leetcode
-	29. Predict the Winner Leetcode
+	21. Best Time To Buy & Sell Stock-2 (leetcode 122)
+	22. Best Time To Buy & Sell Stock-3 (leetcode 123)
+	23. Best Time To Buy & Sell Stock-4 (leetcode 188)
+	24. Best Time To Buy & Sell Stock-5 (leetcode 714)
+	25. Target Sum Leetcode (leetcode 494)
+	26. Ones and Zeroes Leetcode (leetcode 474)
+	27. Minimum Swaps To Make Sequences Increasing (leetcode 801)
+	28. Reducing Dishes Leetcode (leetcode 1402)
+	29. Predict the Winner Leetcode (leetcode 488)
 
 
 ```
@@ -1635,10 +1635,10 @@ CLASS ASSIGNMENTS:
 	2. Kruskals Algorithm for MST
 	3. Eventual Safe States
 	4. Word Ladder-2
-	5. Minimum Multiplications to reach End
+	5. Minimum Multiplications to reach End (letcode 1319)
 	6. Number of Operations to Make Network Connected
-	7. Find the City With the Smallest Number of Neighbors at a Threshold Distance
-	8. Accounts Merge
+	7. Find the City With the Smallest Number of Neighbors at a Threshold Distance (leetcode 1334)
+	8. Accounts Merge (lletcode 721)
 
 ```
 
