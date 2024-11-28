@@ -641,17 +641,17 @@ CLASS NOTES: 21
 CLASS HOMEWORK: 21
 	1. Last occurrence of a char
 	2. Reverse a String
-	3. Add Two Strings (Integer stored as String)
+	3. Add Two Strings (Integer stored as String) (leetcode 415)
 	4. Palindrome Check
 	5. Print all Subarray
-	6. Remove all Occurrence of a Substring
-	7. Buy and sell stocks
-	8. House Robbery problem
-	9. Integer to English words
-	10. Wild Card Matching
-	11. Perfect Square
-	12. Minimum Cost for Tickets
-	13. Number of Dice Roll with Target Sum
+	6. Remove all Occurrence of a Substring (leetcode 1910)
+	7. Buy and sell stocks (leetcode 121)
+	8. House Robbery problem (leetcode 198)
+	9. Integer to English words (leetcode 273)
+	10. Wild Card Matching (leetcode 44)
+	11. Perfect Square (leetcode 279)
+	12. Minimum Cost for Tickets (leetcode 983)
+	13. Number of Dice Roll with Target Sum (leetcode 1155)
 
 ```
 
