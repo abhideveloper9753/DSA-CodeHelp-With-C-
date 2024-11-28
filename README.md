@@ -690,13 +690,13 @@ CLASS NOTES: 23
 
 CLASS HOMEWORK: 23
 	1. Count inversion
-	2. In-place merge sort
-	3. Maximum Subarray
-	4. Combination sum problem
-	5. Combination sum problem - II
-	6. Permutation - II
-	7. Beautiful Arrangement
-	8. Distribute Repeating Integers
+	2. In-place merge sort (leetcode 912)
+	3. Maximum Subarray (lletcode 53)
+	4. Combination sum problem (leetcode 39)
+	5. Combination sum problem - II (letcode 40)
+	6. Permutation - II (leetcode 47)
+	7. Beautiful Arrangement (leetcode 526)
+	8. Distribute Repeating Integers (leetcode 1655)
 
 ```
 
@@ -927,9 +927,9 @@ CLASS HOMEWORK: 31
 	13. Sort 0, 1, 2 in linked list (GFG)
 	14. ARTICLE: Quick Sort Algorithm is best for array or linked list?
 	15. ARTICLE: Merge Sort Algorithm is best for array or linked list?
-	16. Double a number represented as a linked list
-	17. Swapping nodes in a linked list
-	18. Remove zero sum consecutive nodes from linked list
+	16. Double a number represented as a linked list (leetcode 2816)
+	17. Swapping nodes in a linked list (leetcode 1721)
+	18. Remove zero sum consecutive nodes from linked list (leetcode 1171)
 
 ```
 
